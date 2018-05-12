@@ -1,0 +1,26 @@
+_repo: Recollections-of-Windsor-Prison-Appropriate-Strictures-and-Moral-and-Religious-Reflection_39370
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reynolds, John, of Vermont
+    gutenberg_agent_id: '39990'
+    url: http://www.gutenberg.org/2009/agents/39990
+description: ''
+gutenberg_issued: '2012-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39370'
+  lccn: '10034591'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vermont State Prison'
+- !lcc 'HV'
+title: "Recollections of Windsor Prison;\r\nContaining Sketches of its History and\
+  \ Discipline, with Appropriate Strictures and Moral and Religious Reflection"
+url: http://www.gutenberg.org/ebooks/39370
